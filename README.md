@@ -8,7 +8,7 @@ This repository is designed for candidates to complete **frontend tasks as part 
 ## 📈 Step 1: Download & Set Up the Project
 Since this is a **public hiring repo**, you will **download a ZIP file** instead of forking it.
 
-1. **Download the `.zip` file from**: [https://github.com/ChannelBlend/briskk-hiring-template]  
+1. **Download the `.zip` file from**: [https://github.com/ChannelBlend/briskk-hiring-template] (Tech_Wizard-main.zip)
    ⚠️ **This ZIP file will be removed on [22nd Feb 2025]** – Download it immediately!
 2. Extract the `.zip` file on your local machine.
 3. Open the terminal and navigate to the project folder:
